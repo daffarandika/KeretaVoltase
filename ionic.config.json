@@ -1,0 +1,7 @@
+{
+  "name": "KeretaVoltase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
