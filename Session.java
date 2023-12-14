@@ -39,8 +39,8 @@ public class Session {
     do {
       System.out.println("\nMENU KERETA VOLTASE\n");
       System.out.println("1. Lihat jadwal kereta hari ini");
-      System.out.println("2. Tambah jadwal");
-      System.out.println("3. Tambah kereta");
+      System.out.println("2. Tambah kereta");
+      System.out.println("3. Tambah jadwal");
       System.out.println("0. Logout");
       System.out.print("Pilihan anda: ");
       Scanner scanner = new Scanner(System.in);
